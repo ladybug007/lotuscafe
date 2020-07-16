@@ -1,0 +1,277 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3, .card-body>h5 {
+font-family: "Lobster", cursive;
+}
+
+
+.card-img-overlay h5 {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(#CEC8FF, white);
+  padding: 20px 0;
+}
+
+.jumbotron {
+  margin: 0;
+  padding: 30px;
+  
+  color: white;
+}
+
+.jumbotron h2 {
+  color: #CEC8FF;
+}
+
+
+
+.navbar {
+ font-size: medium;
+ position: absolute; 
+}
+
+
+.navbar-nav{
+  /*display: flex;
+  justify-content: space-around;*/
+  margin-left: 150px;
+  list-style: none;
+ 
+}
+.nav-item{
+  
+  margin-left: 100px;
+}
+
+.navbar-brand{
+  margin-left: 200px;
+  
+}
+.nav-link{
+  text-decoration: none;
+  
+} 
+
+.title{
+  text-align: center;
+  margin-top: 50px;
+}
+
+hr{
+  width: 10%;
+  border: 2px solid #3DB1FF;
+  margin-bottom: 60px;
+
+}
+.row{
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+.cube{
+  margin: 10px;
+  background-color: #3BE2AB;
+  color: white;
+  padding: 20px 10px;
+  height: 90%;
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,.5);
+  
+}
+
+.img-cube{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 90%;
+  height: auto;
+}
+
+
+
+.card{
+  margin-left: 130px;
+  padding: 30px;
+  text-align: left;
+  width: 80%;
+  font-family: 'Open Sans', sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  max-height: 150px;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: space-between;
+  color:#3DB1FF;
+  
+}
+
+/*-----------------------------------------Amenities-----------------------------------*/
+
+.features{
+  margin-left: 40px;
+  margin-bottom: 60px;
+  
+}
+
+
+.features h6{
+  font-weight: bold;
+}
+
+.icon i{
+  padding: 30px 60px 50px 50px;
+  background-color:  #3BE2AB;
+  margin-bottom: 10px;
+  color: white;
+  border-radius: 5px;
+}
+
+/*----------------------------------Slider/Subscribe---------------------------------------------------*/
+
+.container-slider{
+  
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  margin: 80px 0;
+  height: 100%;
+
+}
+
+.slider{
+  
+  padding: 60px;
+  background-color:rgba(31, 24, 24, 0.8);
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+form{
+  display: inline-block;
+  }
+
+
+  /*------------------------------Footer----------------------------*/
+
+
+footer{
+  background-color: rgb(90, 88, 88); 
+ border-top: 2px solid white;
+ padding-left: 100px;
+ max-width: 100%;
+ margin-top: -100px;
+ color: white;
+}
+
+.size {
+  margin-left: 10px;
+  padding: 10px 15px;
+  font-size: 20px;
+  border: 2px solid white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  background-color: rgb(90, 88, 88); 
+  color: white;
+}
+
+
+
+
+.fa-facebook{
+  padding: 10px 18px;
+}
+
+.footer{
+  text-align: center;
+}
+
+.footer a{
+  margin-right: 60px;
+  font-weight: bold;
+  color:white;
+}
+
+.address{
+margin-top:-20px;
+margin-left: 50px;
+}
+
+
+
+.footer-logo{
+margin-left: 70px;
+vertical-align: top;
+}
+
+
+/* ---------------Cafe style CSS------------------*/
+
+#cafe-img{
+  
+  background-size: cover;
+  max-width:2000px;
+  height: 650px;
+  background-attachment: fixed;
+  
+  background-color: rgba(0,0,0,0.9);
+}
+.scroll {
+  position: absolute;
+  color: white;
+  bottom: 5%;
+  left:40%;
+}
+
+.menu{
+  text-align: center;
+  margin-top: 70px;
+  
+}
+
+.menu-list{
+display: flex;
+justify-content: space-evenly;
+}
+
+#line{
+  width: 65%;
+  border: 1px solid grey;
+  margin-bottom: 50px;
+}
+.menu-item{
+  margin: 60px auto 60px auto;
+}
+
+
+/*--------------------------------------------Contact page-----------------------------*/
+
+
+#u{
+  /*width: 30%;*/
+  margin-bottom: 20px;
+  margin-top: -5px;
+}
+
+
+
+
+
+
+
+
+
+
