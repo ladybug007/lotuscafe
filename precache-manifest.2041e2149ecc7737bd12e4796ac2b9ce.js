@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d15436a49cfac3bb5c03fc94f2f3ca9",
+    "revision": "adb9a092cad552fd401a1b8499393f69",
     "url": "/lotuscafe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lotuscafe/static/css/2.f5609993.chunk.css"
   },
   {
-    "revision": "8a6d14c760fc37569cae",
+    "revision": "73d1a7e973366fcdb71c",
     "url": "/lotuscafe/static/css/main.413b74ee.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lotuscafe/static/js/2.e3f8b3a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a6d14c760fc37569cae",
-    "url": "/lotuscafe/static/js/main.ef8fd6d5.chunk.js"
+    "revision": "73d1a7e973366fcdb71c",
+    "url": "/lotuscafe/static/js/main.fbe31429.chunk.js"
   },
   {
     "revision": "612b3858bf6ffdeb596a",
