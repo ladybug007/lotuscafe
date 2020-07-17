@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lotuscafe/precache-manifest.588c04fc27533f33028e0479fde24544.js"
+  "/lotuscafe/precache-manifest.c7a441ffd2f3cb2d1a14e192c8d92fe6.js"
 );
 
 self.addEventListener('message', (event) => {
