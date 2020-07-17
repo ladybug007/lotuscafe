@@ -4,7 +4,7 @@ import React from 'react';
 export default function Cafe() {
     return (
         <React.Fragment>
-        <div id='cafe-img' style={{backgroundImage: "url('images/coffee-cake.JPG')"}}>
+        <div id='cafe-img' style={{backgroundImage: "url('./assets/images/coffee-cake.JPG')"}}>
         </div>
 
 
