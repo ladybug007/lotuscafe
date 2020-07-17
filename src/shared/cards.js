@@ -2,7 +2,7 @@ export const CARDS = [
     {
         id:1,
         title:'A Coworking space',
-        src:'assets/images/office_space.jpg',
+        src:'../components/images/office_space.jpg',
         alt: 'pic not available',
         description:'The right blend of a casual and professional work space with the amenities you need.'
     },
