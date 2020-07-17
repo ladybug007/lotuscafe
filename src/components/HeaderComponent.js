@@ -14,7 +14,7 @@ class Header extends Component {
        
             return (
             <React.Fragment>
-                <div className='header-img' style={myStyle}>
+                <div className='header-img'>
                     <div style={{  height: '100%', color: 'white' }}></div>
                        
                 </div>
